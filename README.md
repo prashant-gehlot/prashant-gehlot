@@ -2,10 +2,6 @@
 <h3 align="center">I build things for the web.</h3>
 <img align = "right" alt="coding" width= "400" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-gehlot&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-gehlot" /> </p>
-
-<p align="left"> <a href="https://twitter.com/prashant_2404_" target="blank"><img src="https://img.shields.io/twitter/follow/prashant_2404_?logo=twitter&style=for-the-badge" alt="prashant_2404_" /></a> </p>
-
 - 🌱 I’m currently learning **React Native, Backend**
 
 - 💬 Ask me about **C/C++, HTML5 , CSS4, JavaScript[ES6], Bootstrap, Python**
