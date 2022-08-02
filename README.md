@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">Internet calls me 'pg-code101'</h3>
+<h3 align="center">Internet calls me 'pg-codes'</h3>
 <h3 align="center">I build things for the web.</h3>
 <img align = "right" alt="coding" width= "400" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 
